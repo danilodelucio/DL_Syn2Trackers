@@ -12,4 +12,7 @@ Special thanks to Murilo Augusto to helped me manipulate the lists better on Pyt
 I hope you enjoy!
 
 Download link (Nukepedia):
-[PENDING APPROVAL]
+http://www.nukepedia.com/toolsets/transform/dl_syn2trackers
+
+How to use:
+https://www.youtube.com/watch?v=bEqG6One8w4
